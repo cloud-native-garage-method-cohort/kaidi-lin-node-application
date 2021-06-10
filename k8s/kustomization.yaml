@@ -5,6 +5,6 @@ resources:
   - service.yaml
   - route.yaml
 commonLabels:
-  app: example-node-application
-  app.kubernetes.io/instance: example-node-application
-  app.kubernetes.io/name: example-node-application
+  app: kaidi-lin-pipeline-from-scratch-pipeline
+  app.kubernetes.io/instance: kaidi-lin-pipeline-from-scratch-pipeline
+  app.kubernetes.io/name: kaidi-lin-pipeline-from-scratch-pipeline
